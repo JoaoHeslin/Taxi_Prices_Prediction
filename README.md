@@ -15,8 +15,8 @@ Este projeto tem como objetivo prever os *preços das viagens* com base em vari�
 
 ## ⚙ Tecnologias Utilizadas
 - *Python*
-- *Pandas, **NumPy*
-- *Matplotlib, **Seaborn*
+- *Pandas*, *NumPy*
+- *Matplotlib*, *Seaborn*
 - *Scikit-learn*
 - *XGBoost*
 - *CatBoost*
