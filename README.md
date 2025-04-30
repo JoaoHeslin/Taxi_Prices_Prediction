@@ -9,7 +9,7 @@ Este projeto tem como objetivo prever os *preços das viagens* com base em vari�
 - Prever os preços de viagens com base em variáveis explicativas.
 - Comparar modelos de regressão e identificar o melhor.
 - Otimizar hiperparâmetros com *GridSearchCV*.
-- Avaliar o desempenho com métricas como *R², **MAE, **RMSE* e *Cross-Validation*.
+- Avaliar o desempenho com métricas como *R²*, *MAE*, *RMSE* e *Cross-Validation*.
 
 ---
 
